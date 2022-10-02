@@ -80,7 +80,7 @@ a {
     align-items: center;
     }
     .nav .logo {
-    width: 220px;
+    width: 160px;
     height: auto;
     }
     .nav .logo img {
@@ -107,7 +107,7 @@ a {
     }
     @media screen and (max-width: 767px) {
     .nav .logo {
-        width: 220px;
+        width: 160px;
         height: 47px;
         margin: 0 auto;
     }
